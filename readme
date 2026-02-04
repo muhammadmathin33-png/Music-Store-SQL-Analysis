@@ -1,0 +1,58 @@
+# 🎵 Music Store SQL Data Analysis
+
+## 📌 Project Overview
+This project analyzes a digital music store database using MySQL to extract meaningful business insights related to customers, invoices, artists, genres, and countries.
+
+The objective is to demonstrate strong SQL skills including joins, aggregations, subqueries, CTEs, and window functions.
+
+---
+
+## 🗂 Dataset Description
+The dataset consists of multiple relational tables:
+- customer
+- invoice
+- invoice_line
+- track
+- genre
+- artist
+- album2
+- employee
+
+---
+
+## 🛠 Tools & Technologies
+- MySQL 8.0
+- SQL (Joins, CTEs, Window Functions)
+- MySQL Workbench
+- GitHub
+
+---
+
+## 📊 Business Questions Answered
+- Who is the best customer based on total spending?
+- Which cities and countries generate the highest revenue?
+- Which artists have the most Rock tracks?
+- What is the most popular genre in each country?
+- Who are the top spending customers by country?
+
+---
+
+## 📁 Repository Structure
+- `queries/` → SQL queries categorized by complexity
+- `schema/` → Database schema diagram
+- `Project_Report/` → Detailed project documentation
+- `insights/` → Key business insights
+
+---
+
+## ✅ Key Learnings
+- Handling ONLY_FULL_GROUP_BY in MySQL
+- Writing optimized SQL queries
+- Using CTEs and window functions
+- Translating raw data into business insights
+
+---
+
+## 👤 Author
+**Md Mathin**  
+Aspiring Data Analyst
